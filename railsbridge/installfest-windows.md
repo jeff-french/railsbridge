@@ -8,13 +8,11 @@ You may need to log in as Administrator or give the Administrator password when 
 
 Most newer versions of Windows will use **(x64)** downloads, if you're not sure please ask a volunteer.
 
-**Note:** Make sure and skip the **Create An SSH Key** and **Create a Github account** pages. We will not go through those in Tulsa.
-
 ### Ruby
 
 Ruby is the programming language we'll use to code our web application.
 
-Download and install **Ruby+Devkit 2.4.5-1** from RubyInstaller at https://rubyinstaller.org/downloads. 
+Download and install **Ruby+Devkit 2.5.3-1** from RubyInstaller at https://rubyinstaller.org/downloads. 
 
 Accept all defaults during the install.
 
@@ -69,5 +67,3 @@ gem install rails --no-document
 ### Test App
 
 The rest of the RailsBridge documentation should work as written.
-
-Remember, Windows users will skip the **Create An SSH Key** and **Create a Github account** pages.
